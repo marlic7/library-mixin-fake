@@ -1,4 +1,4 @@
-##  Test case for node library mixins fake with the solution (solution is in branch repaired)
+##  Test case for node library mixins fake with the example solution
 
 ### Test case description
 
@@ -13,7 +13,7 @@
 </pre>
 
 We expect to have in each scope proper version of underscorek lib. <br>
-Because of node cache for require modules and trivial implementation (in master branch) we failed. <br>
+Because of node cache for require modules and our trivial implementation (in master branch) we failed. <br>
 The proper working solution is in repaired branch.
 
 For test it in your environment do this:
