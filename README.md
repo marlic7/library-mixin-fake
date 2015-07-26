@@ -1,6 +1,6 @@
-#  Test case for node library mixins fake with the solution (solution is in branch repaired)
+##  Test case for node library mixins fake with the solution (solution is in branch repaired)
 
-## Test case description
+### Test case description
 
 <pre>
     <b>library-mixin-fake</b> (use underscorek@1.0.0)
