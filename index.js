@@ -13,3 +13,5 @@ _.test('1.0.0');
 
 var	zzz = require("library-zzz"); // underscorek@1.0.0
 zzz.test('1.0.0');
+
+console.dir(require.cache);
