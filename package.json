@@ -1,5 +1,5 @@
 {
-  "name": "library-mixin",
+  "name": "library-mixin-fake",
   "version": "1.0.0",
   "description": "Test biblioteki rozszerzającej inną bibliotekę",
   "main": "index.js",
