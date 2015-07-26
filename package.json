@@ -9,6 +9,10 @@
   "author": "Mariusz Lichota",
   "license": "ISC",
   "dependencies": {
-    "underscorek": "^1.0.0"
+    "library-abc":  "1.0.0",
+    "library-xyz":  "1.0.0",
+    "library-zzz":  "1.0.0",
+    "underscorek":  "1.0.0",
+    "zzz-term-log": "1.0.0"
   }
 }
