@@ -8,5 +8,7 @@
   },
   "author": "Mariusz Lichota",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "underscorek": "^1.0.0"
+  }
 }
