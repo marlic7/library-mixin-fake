@@ -3,12 +3,12 @@
 ## Test case description
 
 <pre>
-    *library-mixin-fake* (use underscorek@1.0.0)
-    ├─┬ *library-abc* (use extended underscorek@1.0.0 by underscorek-extend@3.0.0)
+    **library-mixin-fake** (use underscorek@1.0.0)
+    ├─┬ **library-abc** (use extended underscorek@1.0.0 by underscorek-extend@3.0.0)
     │ └── underscorek-extend@3.0.0 (return extended underscorek@1.0.0)
-    ├─┬ *library-xyz* (use extended underscorek@1.0.0 by underscorek-extend@2.0.0)
+    ├─┬ **library-xyz** (use extended underscorek@1.0.0 by underscorek-extend@2.0.0)
     │ └── underscorek-extend@2.0.0
-    ├── *library-zzz* (use underscorek@1.0.0)
+    ├── **library-zzz** (use underscorek@1.0.0)
     ├── underscorek@1.0.0
 </pre>
 
